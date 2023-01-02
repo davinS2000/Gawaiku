@@ -1,0 +1,240 @@
+/* @media only screen and (max-width: 1368px) { */
+
+html,
+body {
+  height: 100%;
+  background-color: gray !important;
+}
+
+.global-container {
+  /* min-width: 768px; */
+  height: 100%;
+  /*background-color: black;*/
+}
+
+/*navbar*/
+.navbar {
+  width: 100%;
+
+  background-color: black;
+  border-radius: 5px;
+}
+
+.main {
+  color: aqua;
+}
+
+.card-title {
+  font-weight: 900;
+  margin-left: 50px;
+}
+
+.menu {
+  margin-right: 50px;
+
+}
+
+.nav-item {
+  margin-right: 50px;
+}
+
+.nav-link {
+  color: aqua;
+}
+
+.card {
+  border: 2px solid aqua;
+}
+
+/*middle*/
+
+.middle {
+  height: 100%;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.middle {
+  padding: 50px;
+  margin-top: 50px;
+}
+
+
+.judul_rating {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: aqua;
+
+}
+
+
+.radio-container {
+  font-size: 18px;
+  padding: 10px;
+}
+
+
+label {
+  position: relative;
+  cursor: pointer;
+  font-weight: bold;
+  color: aqua;
+  padding-right: 30px;
+}
+
+
+.button {
+  margin-top: 30px;
+  width: 500px;
+
+}
+
+input[type="submit"] {
+  width: 80px;
+  text-align: center;
+  background-color: aqua;
+  color: black;
+  font-weight: bold;
+  border: white;
+  border-radius: 5px;
+  margin-right: 20px;
+
+}
+
+
+.data {
+  padding-top: 50px;
+}
+
+a {
+  color: aqua;
+}
+
+.copyright {
+  margin-top: 50px;
+  text-align: center;
+}
+
+/* } */
+
+@media only screen and (max-width: 600px) {
+
+  html,
+  body {
+    height: 100%;
+    background-color: gray !important;
+  }
+
+  .global-container {
+    /* min-width: 768px; */
+    height: 100%;
+    /*background-color: black;*/
+  }
+
+  /*navbar*/
+  .navbar {
+    width: 100%;
+
+    background-color: black;
+    border-radius: 5px;
+  }
+
+  .main {
+    color: aqua;
+  }
+
+  .card-title {
+    font-weight: 900;
+    margin-left: 50px;
+  }
+
+  .menu {
+    margin-right: 50px;
+
+  }
+
+  .nav-item {
+    margin-right: 50px;
+  }
+
+  .nav-link {
+    color: aqua;
+  }
+
+  .card {
+    border: 2px solid aqua;
+  }
+
+  /*middle*/
+
+  .middle {
+    height: 100%;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+  }
+
+  .middle {
+    padding: 50px;
+    margin-top: 50px;
+  }
+
+
+  .judul_rating {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: aqua;
+
+  }
+
+
+  .radio-container {
+    font-size: 18px;
+    padding: 10px;
+  }
+
+
+  label {
+    position: relative;
+    cursor: pointer;
+    font-weight: bold;
+    color: aqua;
+    padding-right: 30px;
+  }
+
+
+  .button {
+    margin-top: 30px;
+    width: 500px;
+
+  }
+
+  input[type="submit"] {
+    width: 80px;
+    text-align: center;
+    background-color: aqua;
+    color: black;
+    font-weight: bold;
+    border: white;
+    border-radius: 5px;
+    margin-right: 20px;
+
+  }
+
+
+  .data {
+    padding-top: 50px;
+  }
+
+
+  a {
+    color: aqua;
+  }
+
+  .copyright {
+    margin-top: 100px;
+    text-align: center;
+  }
+
+}

@@ -1,0 +1,173 @@
+/* @media only screen and (max-width: 1368px) { */
+
+html,
+body {
+  height: 100%;
+  background-color: gray !important;
+}
+
+.global-container {
+  /* min-width: 1368px; */
+  height: 100%;
+  /*background-color: black;*/
+}
+
+/*navbar*/
+.navbar {
+  width: 100%;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.main {
+  color: aqua;
+}
+
+.card-title {
+  font-weight: 900;
+  margin-left: 50px;
+}
+
+.menu {
+  margin-right: 50px;
+
+
+}
+
+.nav-item {
+  margin-right: 50px;
+}
+
+.nav-link {
+  color: aqua;
+}
+
+.card {
+  border: 2px solid aqua;
+}
+
+/*middle*/
+
+.middle {
+  height: 100%;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.middle {
+  padding: 50px;
+  margin-top: 50px;
+}
+
+.judul {
+  text-align: center;
+}
+
+.judul2 {
+  text-align: center;
+}
+
+.paragraf {
+  text-align: center;
+}
+
+.copyright {
+  margin-top: 100px;
+}
+
+/* } */
+
+@media only screen and (max-width: 600px) {
+
+
+  html,
+  body {
+    height: 100%;
+    background-color: gray !important;
+  }
+
+  .global-container {
+    /* min-width: 1368px; */
+    height: 100%;
+    /*background-color: black;*/
+  }
+
+  /*navbar*/
+  .navbar {
+    width: 100%;
+    background-color: black;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+
+  .main {
+    color: aqua;
+  }
+
+  .card-title {
+    font-weight: 900;
+    margin-left: 50px;
+  }
+
+  .menu {
+    margin-right: 50px;
+    display: none;
+
+  }
+
+
+
+  .nav-item {
+    margin-right: 50px;
+  }
+
+  .nav-link {
+    color: aqua;
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .navbar .icon {
+    display: none;
+  }
+
+  .card {
+    border: 2px solid aqua;
+  }
+
+  /*middle*/
+
+  .middle {
+    height: 100%;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+  }
+
+  .middle {
+    padding: 50px;
+    margin-top: 50px;
+  }
+
+  .judul {
+    text-align: center;
+  }
+
+  .judul2 {
+    text-align: center;
+  }
+
+  .paragraf {
+    text-align: center;
+  }
+
+  .copyright {
+    margin-top: 100px;
+  }
+
+}

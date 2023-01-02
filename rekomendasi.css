@@ -1,0 +1,76 @@
+/* @media only screen and (max-width: 1368px) { */
+
+html,
+body {
+  height: 100%;
+  background-color: black !important;
+}
+
+.global-container {
+  /* min-width: 1368px; */
+  height: 100%;
+  /* background-color: black; */
+}
+
+/*navbar*/
+.navbar {
+  width: 100%;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.main {
+  color: aqua;
+}
+
+.card-title {
+  font-weight: 900;
+  margin-left: 50px;
+}
+
+.menu {
+  margin-right: 50px;
+  /*padding-right: 300px;*/
+
+}
+
+.nav-item {
+  margin-right: 50px;
+}
+
+.nav-link {
+  color: aqua;
+}
+
+.card {
+  border: 2px solid aqua;
+}
+
+/*middle*/
+
+.middle {
+  height: 100%;
+  color: white;
+  background-color: black;
+  border-radius: 5px;
+}
+
+.judul_rek {
+  margin-top: 50px;
+  padding-top: 50px;
+}
+
+.tabel {
+  /*background-color: white;*/
+  height: 100%;
+}
+
+.copyright {
+  margin-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: white;
+
+}
+
+/* } */

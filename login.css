@@ -1,0 +1,48 @@
+html,
+body {
+  height: 100%;
+  background-color: gray !important;
+}
+
+.global-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: aqua;
+}
+
+.login-form {
+  width: 380px;
+  height: 500px;
+  padding: 20px;
+  background: black !important;
+  border-radius: 10px !important;
+}
+
+input[type="email"],
+input[type="password"] {
+  background: white;
+  /* color: white; */
+  border: 2px solid aqua;
+  border-radius: 10px;
+  margin-bottom: 25px;
+}
+
+.card-title {
+  font-weight: 900;
+  padding-top: 20px;
+}
+
+.btn {
+  background: aqua;
+  color: black;
+  transform: translateY(10px);
+  font-size: 14px;
+  border-radius: 10px !important;
+  margin-bottom: 20px;
+}
+
+a {
+  color: aqua;
+}
